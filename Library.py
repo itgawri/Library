@@ -19,7 +19,7 @@ is_my_author = "Ray Bradbury" in my_books_authors
 if is_my_author:
     print("Ray Bradbury belongs to my authors!")
 
-# PL------------------------------------------------------------------
+# PL-------------------------------------------------------------------
 
 informacje_o_hamlecie = ("William Shakespeare", "Tragedia", 1603)
 informacje_o_Kronikach_Marsa = ("Ray Bradbury", "Science fiction", 1950)
